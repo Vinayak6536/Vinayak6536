@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Vinayak6536&theme=highcontrast)](https://git.io/streak-stats)
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinayak6536&show_icons=true&theme=highcontrast)
-
 ## 🌱 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinayak6536&theme=high-contrast)
 
