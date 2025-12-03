@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Vinayak 👋
 
-### 🔥 GitHub Streaks
-[![GitHub Streak](https://streak-stats.demolab.com?user=vinayak6536&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+## 🔥 GitHub Streaks
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vinayak6536&theme=tokyonight&hide_border=true" />
+</p>
 ## 🌱 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinayak6536&theme=high-contrast)
 
