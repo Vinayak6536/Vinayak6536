@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Vinayak 👋
+# Hey, I'm Vinayak 👋
 
 ## 🔥 GitHub Streaks
 [![GitHub Streak](https://streak-stats.demolab.com?user=vinayak6536&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
