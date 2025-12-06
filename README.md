@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey, I'm Vinayak 👋
+# Hi, I'm Vinayak 👋
+
+## 🌱 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinayak6536&theme=high-contrast)
+
 
 ## 🔥 GitHub Streaks
 [![GitHub Streak](https://streak-stats.demolab.com?user=vinayak6536&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-## 🌱 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinayak6536&theme=high-contrast)
+
 
