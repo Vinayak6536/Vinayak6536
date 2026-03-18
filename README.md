@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey, I'm Vinayak 👋
+# Hi, I'm Vinayak 👋
 
 # 🌱 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinayak6536&theme=high-contrast)
