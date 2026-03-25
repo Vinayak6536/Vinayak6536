@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hey, I'm Vinayak 👋
 🌱 I’m currently learning ...
+- 🤔 I’m looking for help with ...
 # 🌱 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinayak6536&theme=high-contrast)
 
